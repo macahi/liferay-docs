@@ -101,7 +101,7 @@ these steps:
       (optional)
     - `org.osgi.http.websocket.endpoint.encoders`: the WebSocket's encoders 
       (optional)
-    - `org.osgi.http.websocket.endpoint.subprotocols`: the WebSocket's 
+    - `org.osgi.http.websocket.endpoint.subprotocol`: the WebSocket's 
       subprotocols (optional)
 
 For example, the following steps show you how to define a WebSocket endpoint in 
